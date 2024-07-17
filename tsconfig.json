@@ -1,0 +1,44 @@
+// {
+//   "compilerOptions": {
+//     "target": "ES2016",
+//     "lib": ["ES2016", "dom"],
+//     "types": ["cypress", "cypress-cucumber-preprocessor", "node"],
+//     "strict": true,
+//     "esModuleInterop": true,
+//     "forceConsistentCasingInFileNames": true,
+//     "skipLibCheck": true,
+//     "baseUrl": ".",
+//     "module": "NodeNext",
+//     "moduleResolution": "NodeNext",
+//     "paths": {
+//       "@badeball/cypress-cucumber-preprocessor/*": [
+//         "./node_modules/@badeball/cypress-cucumber-preprocessor/dist/subpath-entrypoints/*"
+//       ],
+//       "esbuild": ["./node_modules/esbuild"]
+//     }
+//   },
+//   "include": ["**/*.ts"]
+// }
+
+
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "lib": ["ES2016", "dom"],
+    "types": ["cypress", "cypress-cucumber-preprocessor", "node","./types"],
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "paths": {
+      "@badeball/cypress-cucumber-preprocessor/*": [
+        "./node_modules/@badeball/cypress-cucumber-preprocessor/dist/subpath-entrypoints/*"
+      ],
+      "esbuild": ["./node_modules/esbuild"]
+    }
+  },
+  "include": ["**/*.ts"]
+}

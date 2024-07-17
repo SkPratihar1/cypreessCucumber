@@ -1,0 +1,96 @@
+
+{
+  
+    "step1":{
+      "Job Title":"title",
+      "Job Link":"http://jobs.com",
+      "Company Name": "Dulce",
+      "Company HQ": "Test",
+      "Industry": "Female",
+      
+      "Employee Count": 32,
+      "Company LinkedIn": "https://in.linkedin.com/company/itobuz-technologies-pvt-ltd",
+      "Company Website": "https"
+    },
+    "step2":{
+      "Job Title":"eqe",
+      "Job Link":"http://jobs.com",
+      "Company Name": "Mara",
+      "Company HQ": "Hashimoto",
+      "Industry": "Female", 
+      "Employee Count": 25,
+      "Company LinkedIn": "https://tyon.com/company/itobuz-technologies-pvt-ltd",
+      "Company Website": "https://tyon.com"
+    },
+    "step3":{
+      "Job Title":"weqe",
+      "Job Link":"http://jobs.com",
+      "Company Name": "Philip",
+      "Company HQ": "Gent",
+      "Industry": "Male",
+      "Employee Count": "op",
+      "Company LinkedIn": "https://in.linkedin.com/company/itobuz-technologies-pvt-ltd",
+      "Company Website": "https://tyon.com"
+    },
+    "step4":{
+      "Job Title":"weqe",
+      "Job Link":" ",
+      "Company Name": "Kathleen",
+      "Company HQ": "Hanner",
+      "Industry": "Female",
+      "Employee Count": 25,
+      "Company LinkedIn": "https://in.linkedin.com/company/itobuz-technologies-pvt-ltd",
+      "Company Website": "https://tyon.com"
+    },
+    "step5":{
+      "Job Title":" ",
+      "Job Link":"http://jobs.com",
+      "Company Name": "Nereida",
+      "Company HQ": "Magwood",
+      "Industry": "Female",
+      "Employee Count": 58,
+      "Company LinkedIn": "https://in.linkedin.com/company/itobuz-technologies-pvt-ltd",
+      "Company Website": "https://tyon.com"
+    },
+    "step6":{
+      "Job Title":"wqe",
+      "Job Link":"http://jobs.com",
+      "Company Name": "Gaston",
+      "Company HQ": "Brumm",
+      "Industry": "Male",
+      "Employee Count": 24,
+      "Company LinkedIn": "https://in.linkedin.com/company/itobuz-technologies-pvt-ltd",
+      "Company Website": " "
+    },
+    "step7":{
+      "Job Title":"sf",
+      "Job Link":"htps://io",
+      "Company Name": "Etta",
+      "Company HQ": "Hurn",
+      "Industry": "Female",
+      "Employee Count": 56,
+      "Company LinkedIn": "https://in.linkedin.com/company/itobuz-technologies-pvt-ltd",
+      "Company Website": "https://tyon.com"
+    },
+    "step8":{
+      "Job Title":"dfw",
+      "Job Link":"http://jobs.com",
+      "Company Name": "Earlean",
+      "Company HQ": "Melgar",
+      "Industry": "f",
+      "Employee Count": 27,
+      "Company LinkedIn": "https://in.linkedin.com/company/itobuz-technologies-pvt-ltd",
+      "Company Website": "https://tyon.com"
+    },
+    "step9":{
+      "Job Title":"United ",
+      "Job Link":"http://jobs.com",
+      "Company Name": "Vincenza",
+      "Company HQ": " ",
+      "Industry": "Female",
+      "Employee Count": 40,
+      "Company LinkedIn": "https://in.linkedin.com/company/itobuz-technologies-pvt-ltd",
+      "Company Website": "https://tyon.com"
+    }
+  
+}
